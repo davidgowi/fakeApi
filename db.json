@@ -1,54 +1,21 @@
-{
-    "posts": [
-        {
-            "Id": 31, 
-            "DataProductId": 48, 
-            "DataSourceName": "HW GAScrape",
-            "Description":null,
-            "SourcePrimary":null,
-            "RID":1643033848137,
-            "RUD":1643033848137,
-            "path": "Conference#AACR#2022"
-        },
-        {
-            "Id": 31, 
-            "DataProductId": 48, 
-            "DataSourceName": "HW GAScrape",
-            "Description":null,
-            "SourcePrimary":null,
-            "RID":1643033848137,
-            "RUD":1643033848137,
-            "path": "Conference#ASCO#2012"
-        },
-        {
-            "Id": 31, 
-            "DataProductId": 48, 
-            "DataSourceName": "HW GAScrape",
-            "Description":null,
-            "SourcePrimary":null,
-            "RID":1643033848137,
-            "RUD":1643033848137,
-            "path": "Conference#ASHI#2012"
-        },
-        {
-            "Id": 31, 
-            "DataProductId": 48, 
-            "DataSourceName": "HW GAScrape",
-            "Description":null,
-            "SourcePrimary":null,
-            "RID":1643033848137,
-            "RUD":1643033848137,
-            "path": "Conference#AACR#2022"
-        },
-         {
-            "Id": 31, 
-            "DataProductId": 48, 
-            "DataSourceName": "HW GAScrape",
-            "Description":null,
-            "SourcePrimary":null,
-            "RID":1643033848137,
-            "RUD":1643033848137,
-            "path": "Trial Registries#Press Release#2022"
-        }
-    ]
-}
+[
+    { "title": "filters", "data": [
+        { "title": "Data Sources", "data": [
+            { "title": "Conference", "data": [ 
+                { "title": "ACCR", "years": [2021,2022,2019] },
+                { "title": "ASCO", "years": [2021,2020,2019] },
+                { "title": "ASHI", "years": [2022,2019] },
+                { "title": "EHA", "years": [2021,2019] }
+             ] }
+        ] },
+        { "title": "Data set", "data": [] },
+        { "title": "Variants", "data": [] },
+        { "title": "Relevance Status", "data": [] },
+        { "title": "Bookmarks", "data": [] }
+    ]},
+    { "title": "concepts", "data": [
+        { "title": "Trial Identifiers", "data": [] },
+        { "title": "Drugs", "data": [] },
+        { "title": "Developers", "data": [] }
+    ]}
+]
