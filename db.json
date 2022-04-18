@@ -39,6 +39,16 @@
             "RID":1643033848137,
             "RUD":1643033848137,
             "path": "Conference#AACR#2022"
+        },
+         {
+            "Id": 31, 
+            "DataProductId": 48, 
+            "DataSourceName": "HW GAScrape",
+            "Description":null,
+            "SourcePrimary":null,
+            "RID":1643033848137,
+            "RUD":1643033848137,
+            "path": "Trial Registries#Press Release#2022"
         }
     ]
 }
