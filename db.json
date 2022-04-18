@@ -1,4 +1,5 @@
-[
+{
+    "data": [
     { "title": "filters", "data": [
         { "title": "Data Sources", "data": [
             { "title": "Conference", "data": [ 
@@ -18,4 +19,5 @@
         { "title": "Drugs", "data": [] },
         { "title": "Developers", "data": [] }
     ]}
-]
+    ]
+}
